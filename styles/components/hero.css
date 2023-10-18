@@ -1,0 +1,22 @@
+.hero__container {
+  margin-top: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.hero__big p{
+  font-size: 2.5rem;
+  font-weight: 700;
+  max-width: 400px;
+}
+.hero__green {
+  color: var(--clr-green);
+}
+.hero__big__pedals {
+  display: block;
+}
+.hero__small p {
+  max-width: 400px;
+  font-size: 20px;
+}
+
