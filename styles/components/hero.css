@@ -2,16 +2,11 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: var(--clr-lightgreen);
-
 }
 .hero__big p{
   font-size: 3.5rem;
   font-weight: 700;
   max-width: 550px;
-}
-.hero__green {
-  color: var(--clr-green);
 }
 .hero__big__pedals {
   display: block;

@@ -11,6 +11,7 @@ html, body {
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
   color: var(--clr-black);
+  background-color: var(--clr-lightgreen);
 }
 html {
   scroll-behavior: smooth;
