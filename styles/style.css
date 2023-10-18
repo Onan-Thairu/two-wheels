@@ -1,9 +1,25 @@
+:root {
+  --clr-green: #1C786D;
+  --clr-black: #13131A;
+}
+
 html, body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
+  color: var(--clr-black);
 }
 html {
   scroll-behavior: smooth;
+}
+.container {
+  width: 98vw;
+}
+.content {
+  width: 90%;
+  margin: auto;
+}
+a:visited {
+  color: var(--clr-black);
 }
