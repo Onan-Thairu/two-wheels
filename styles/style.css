@@ -1,6 +1,8 @@
 :root {
   --clr-green: #1C786D;
   --clr-black: #13131A;
+  --clr-white: #D9D9D9;
+  --clr-lightgreen: rgba(234, 245, 243, 0.34);
 }
 
 html, body {

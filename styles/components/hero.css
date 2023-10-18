@@ -1,13 +1,14 @@
 .hero__container {
-  margin-top: 2rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  background-color: var(--clr-lightgreen);
+
 }
 .hero__big p{
-  font-size: 2.5rem;
+  font-size: 3.5rem;
   font-weight: 700;
-  max-width: 400px;
+  max-width: 550px;
 }
 .hero__green {
   color: var(--clr-green);
@@ -17,6 +18,6 @@
 }
 .hero__small p {
   max-width: 400px;
-  font-size: 20px;
+  font-size: 25px;
 }
 
