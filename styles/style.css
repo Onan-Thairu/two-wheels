@@ -11,13 +11,13 @@ html, body {
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
   color: var(--clr-black);
-  background-color: var(--clr-lightgreen);
+  background-color: white;
 }
 html {
   scroll-behavior: smooth;
 }
 .container {
-  width: 98vw;
+  width: 100%;
 }
 .content {
   width: 86%;

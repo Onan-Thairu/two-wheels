@@ -1,3 +1,6 @@
+.hero__big__container {
+  background-color: var(--clr-lightgreen);
+}
 .hero__container {
   display: flex;
   align-items: center;
