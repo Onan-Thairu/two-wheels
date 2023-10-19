@@ -11,8 +11,44 @@
 .hero__big__pedals {
   display: block;
 }
+.hero__green {
+  color: var(--clr-green);
+}
 .hero__small p {
   max-width: 400px;
   font-size: 25px;
 }
 
+.hero__container2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.hero__stats__container {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+  margin-bottom: 4rem;
+}
+.hero__stats {
+  /* display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: aqua; */
+  text-align: center;
+}
+.hero__stats__number{
+  font-size: 2rem;
+  font-weight: 800;
+  display: block;
+}
+.hero__members__number {
+  font-size: 1.5rem;
+}
+.hero__members__images img {
+  border-radius: 50%;
+  margin-left: -2rem;
+}
+.hero__members .hero__no__overlay {
+  margin-left: 0rem;
+}
