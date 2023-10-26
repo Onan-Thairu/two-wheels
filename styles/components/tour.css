@@ -1,0 +1,20 @@
+.tour__container {
+  margin-top: 5rem;
+}
+.tour__header {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  background-color: yellow;
+}
+.tour__img__container {
+  display: flex;
+}
+.tour__img__div {
+  /* max-width: 250px; */
+  background-color: aqua;
+
+}
+.tour__img__div img {
+  max-width: 340px;
+}
