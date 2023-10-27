@@ -46,7 +46,8 @@
 }
 .hero__members__images img {
   border-radius: 50%;
-  margin-left: -2.2rem;
+  margin-left: -1.7rem;
+  width: 3.5rem;
 }
 .hero__members .hero__no__overlay {
   margin-left: 0rem;
