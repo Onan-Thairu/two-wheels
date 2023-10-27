@@ -27,3 +27,6 @@ html {
 a:visited {
   color: var(--clr-black);
 }
+.global__green__text {
+  color: var(--clr-green);
+}
