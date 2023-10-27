@@ -24,6 +24,9 @@ html {
   width: 86%;
   margin: auto;
 }
+a {
+  color: var(--clr-black);
+}
 a:visited {
   color: var(--clr-black);
 }
