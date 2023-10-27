@@ -26,6 +26,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding-bottom: 2rem;
 }
 .hero__stats__container {
   display: flex;

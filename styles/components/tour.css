@@ -5,16 +5,30 @@
   text-align: center;
   font-size: 2rem;
   font-weight: 500;
-  background-color: yellow;
 }
 .tour__img__container {
   display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: space-between;
 }
 .tour__img__div {
-  /* max-width: 250px; */
-  background-color: aqua;
-
+  flex: 1 1 0px;
+  /* background-color: aqua; */
 }
 .tour__img__div img {
   max-width: 340px;
+}
+.tour__img__title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  padding-left: 1rem;
+}
+.tour__img__date {
+  font-size: .7rem;
+  padding-left: 1rem;
+}
+.tour__img__desc {
+  padding-left: 1rem;
+  font-size: .8rem;
 }
